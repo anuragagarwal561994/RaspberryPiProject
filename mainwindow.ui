@@ -56,8 +56,8 @@
       <widget class="QLabel" name="label_6">
        <property name="geometry">
         <rect>
-         <x>270</x>
-         <y>0</y>
+         <x>260</x>
+         <y>2</y>
          <width>339</width>
          <height>189</height>
         </rect>
@@ -66,7 +66,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap resource="imagefiles.qrc">:/PnP/images/PnP OFF.bmp</pixmap>
+        <pixmap resource="imagefiles.qrc">:/PnP/images/PnP OFF.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -123,7 +123,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap resource="imagefiles.qrc">:/valve/images/ValveOFF.bmp</pixmap>
+        <pixmap resource="imagefiles.qrc">:/valve/images/ValveOFF.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>
@@ -132,7 +132,7 @@
       <widget class="QLabel" name="label_10">
        <property name="geometry">
         <rect>
-         <x>0</x>
+         <x>1</x>
          <y>130</y>
          <width>52</width>
          <height>34</height>
@@ -142,7 +142,7 @@
         <string/>
        </property>
        <property name="pixmap">
-        <pixmap resource="imagefiles.qrc">:/motor/images/MotorOFF.bmp</pixmap>
+        <pixmap resource="imagefiles.qrc">:/motor/images/MotorOFF.png</pixmap>
        </property>
        <property name="scaledContents">
         <bool>true</bool>

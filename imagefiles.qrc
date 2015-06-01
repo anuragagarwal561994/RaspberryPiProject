@@ -12,16 +12,16 @@
         <file>images/Tank2M_1.png</file>
     </qresource>
     <qresource prefix="/valve">
-        <file>images/ValveON.bmp</file>
-        <file>images/ValveOFF.bmp</file>
+        <file>images/ValveOFF.png</file>
+        <file>images/ValveON.png</file>
     </qresource>
     <qresource prefix="/motor">
-        <file>images/MotorOFF.bmp</file>
-        <file>images/MotorON1.bmp</file>
-        <file>images/MotorON2.bmp</file>
+        <file>images/MotorOFF.png</file>
+        <file>images/MotorON1.png</file>
+        <file>images/MotorON2.png</file>
     </qresource>
     <qresource prefix="/PnP">
-        <file>images/PnP OFF.bmp</file>
-        <file>images/PnP ON.bmp</file>
+        <file>images/PnP OFF.png</file>
+        <file>images/PnP ON.png</file>
     </qresource>
 </RCC>
