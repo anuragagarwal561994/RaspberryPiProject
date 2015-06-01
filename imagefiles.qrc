@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/tank1">
+        <file>images/Tank1E.png</file>
+        <file>images/Tank1F.png</file>
+        <file>images/Tank1M.png</file>
+    </qresource>
+    <qresource prefix="/tank2">
+        <file>images/Tank2E.png</file>
+        <file>images/Tank2F.png</file>
+        <file>images/Tank2F_1.png</file>
+        <file>images/Tank2M.png</file>
+        <file>images/Tank2M_1.png</file>
+    </qresource>
+    <qresource prefix="/valve">
+        <file>images/ValveON.bmp</file>
+        <file>images/ValveOFF.bmp</file>
+    </qresource>
+    <qresource prefix="/motor">
+        <file>images/MotorOFF.bmp</file>
+        <file>images/MotorON1.bmp</file>
+        <file>images/MotorON2.bmp</file>
+    </qresource>
+    <qresource prefix="/PnP">
+        <file>images/PnP OFF.bmp</file>
+        <file>images/PnP ON.bmp</file>
+    </qresource>
+</RCC>
